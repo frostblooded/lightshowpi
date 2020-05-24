@@ -489,10 +489,10 @@ class Lightshow(object):
             except OSError as err:
                 if err.errno == errno.EAGAIN or err.errno == errno.EWOULDBLOCK:
                     continue
-            try:
-                self.output(data)
-            except aa.ALSAAudioError:
-                continue
+            # try:
+            #     self.output(data)
+            # except aa.ALSAAudioError:
+            #     continue
 
             if len(data):
                 # if the maximum of the absolute value of all samples in
