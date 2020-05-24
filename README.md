@@ -1,4 +1,4 @@
-This is just a fork with my own config. Official repo is [https://bitbucket.org/togiles/lightshowpi/src/master/](here)!
+This is just a fork with my own config. Official repo is [here](https://bitbucket.org/togiles/lightshowpi/src/master/)!
 
 -----------------------------------------------------------------------------------------------------------------------
 
