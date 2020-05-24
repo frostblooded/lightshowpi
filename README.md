@@ -1,3 +1,7 @@
+This is just a fork with my own config. Official repo is [https://bitbucket.org/togiles/lightshowpi/src/master/](here)!
+
+-----------------------------------------------------------------------------------------------------------------------
+
 [http://lightshowpi.org/](http://lightshowpi.org/)
 
 All files here are free to use under the BSD License (see the LICENSE file for details).  All we
